@@ -1,4 +1,4 @@
-3×3×3 LED Cube using AVR ATmega328P
+3×3×3 LED Cube using AVR ATmega328P and Bare-Metal C
 EEE184 Project
 Submitted by: Chris Immanuel I. Arcasa
 
